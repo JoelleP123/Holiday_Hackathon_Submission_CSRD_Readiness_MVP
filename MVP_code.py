@@ -29,11 +29,7 @@ prioritizes next steps for investment of resources.
 ## aligned to what buyers actually screen for first under CSRD / HRDD
 ## safe for Global South and SME suppliers
 
-## Workflow Description
-## Input: supplier intake answers (number of questions)
-# INTAKE_QUESTIONS → questions tag + list of options
-# answers_by_question → sentence → answer
-# normalized answers → internal keys → answer
+
 
 
 INTAKE_QUESTIONS = {
