@@ -14,6 +14,8 @@ prioritizes next steps for investment of resources.
 
 ## Note: This repo is illustrative; commercial use requires agreement
 
+# Note: This repo is a logic MVP only
+
 ### Note: This notebook demonstrates the AI reasoning layer of the product
 
 ## Boundaries of this tool:
